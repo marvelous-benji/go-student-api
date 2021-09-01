@@ -3,7 +3,7 @@ package main
 
 
 import (
-	"go-student-api/controllers/router"
+	"go-student-api/controllers"
 	"net/http"
 	"time"
 	"log"

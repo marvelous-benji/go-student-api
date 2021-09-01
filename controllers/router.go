@@ -5,7 +5,7 @@ import (
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
 	"net/http"
-	"views/view"
+	"go-student-api/views"
 	"os"
 )
 

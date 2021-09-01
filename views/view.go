@@ -3,9 +3,9 @@ package views
 
 import (
 	"github.com/gorilla/mux"
-	"models/db_conn"
+	"go-student-api/models"
 	"gorm.io/gorm"
-	"controllers/router"
+	//"go-student-api/controllers"
 	"net/http"
 	"encoding/json"
 	"log"
